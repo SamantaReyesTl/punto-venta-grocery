@@ -1,6 +1,6 @@
-# grocery_outlet
+# Grocery Outlet
 
-A new Flutter project.
+Punto de venta
 
 ## Getting Started
 
